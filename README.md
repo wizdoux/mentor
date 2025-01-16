@@ -25,7 +25,7 @@ Você pode contribuir com este projeto enviando sugestões de novas funcionalida
 
 ## Licença
 
-veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+veja o arquivo [license](license) para mais detalhes.
 
 ## Contato
 
