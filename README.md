@@ -13,6 +13,36 @@ Proffy é uma plataforma de ensino online que facilita a conexão entre alunos e
 - React
 - TypeScript
 
+## Como Configurar o Ambiente de Desenvolvimento
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/wizdoux/mentor.git
+   cd mentor
+   ```
+
+2. **Instale as dependências:**
+   ```bash
+   npm install
+   ```
+
+3. **Execute a aplicação:**
+   ```bash
+   npm start
+   ```
+
+## Exemplos de Uso
+
+Aqui estão alguns exemplos de como utilizar a plataforma Proffy:
+
+1. **Cadastro de Professor:**
+   - Preencha o formulário de cadastro com suas informações e horários disponíveis.
+   - Após o cadastro, seu perfil estará visível para os alunos.
+
+2. **Busca de Professores:**
+   - Utilize os filtros para encontrar professores por matéria, dia e horário.
+   - Entre em contato com o professor desejado para agendar uma aula.
+
 ## Como Contribuir
 
 Você pode contribuir com este projeto enviando sugestões de novas funcionalidades ou correções através de pull requests. Siga os seguintes passos:
@@ -25,7 +55,7 @@ Você pode contribuir com este projeto enviando sugestões de novas funcionalida
 
 ## Licença
 
-veja o arquivo [license](license) para mais detalhes.
+Veja o arquivo [license](license) para mais detalhes.
 
 ## Contato
 
